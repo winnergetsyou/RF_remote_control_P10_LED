@@ -376,6 +376,7 @@ void add()
      }
   //--------------------------------------------------------------
   }
+// this function will shift a control from one number to other in tennis board
 void sub()
 {  z=z+1;
    if(z==8)
